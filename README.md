@@ -69,7 +69,8 @@ For customer $i \in \{1, \dots, N\}$ and retention offer $k \in \{1, \dots, K\}$
   3. **Offer-Specific Capacity Constraints:**
      $$\sum_{i=1}^N x_{i,k} \le \text{Capacity}_k \quad \forall k$$
   4. **Strict Capital Protection (Non-Negative Net Benefit):**
-     $$x_{i,k} = 0 \quad \text{if } \text{Net Benefit}_{i,k} \le 0 \quad (\text{when } \texttt{allow\_negative\_net\_benefit} = \text{False})$$
+     $$x_{i,k} = 0 \quad \text{if } \text{Net Benefit}_{i,k} \le 0$$
+     *(Enforced when `allow_negative_net_benefit=False`)*
 
 ---
 
