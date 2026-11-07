@@ -1,0 +1,2 @@
+threshold,roc_auc,average_precision,accuracy,precision,recall,f1,brier_score,true_negatives,false_positives,false_negatives,true_positives,weighted_error_cost
+0.23408405277040004,0.8281691596269602,0.608503229103732,0.709013484740951,0.47297297297297297,0.8422459893048129,0.6057692307692307,0.14368124528902307,684,351,59,315,646.0

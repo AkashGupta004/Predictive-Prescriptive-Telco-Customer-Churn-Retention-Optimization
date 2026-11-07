@@ -1,0 +1,60 @@
+{
+  "budgets_evaluated": [
+    10000.0,
+    25000.0,
+    50000.0,
+    75000.0,
+    100000.0
+  ],
+  "strategies_evaluated": [
+    "No Campaign",
+    "Random Selection",
+    "Highest Churn Risk",
+    "Highest Customer Value",
+    "Greedy Expected Net Benefit",
+    "MILP Optimization"
+  ],
+  "allow_negative_net_benefit": false,
+  "milp_sensitivity_trend": [
+    {
+      "budget": 10000.0,
+      "cost": 0.0,
+      "retained_value": 0.0,
+      "net_benefit": 0.0,
+      "roi_percentage": 0.0,
+      "customers_targeted": 0
+    },
+    {
+      "budget": 25000.0,
+      "cost": 0.0,
+      "retained_value": 0.0,
+      "net_benefit": 0.0,
+      "roi_percentage": 0.0,
+      "customers_targeted": 0
+    },
+    {
+      "budget": 50000.0,
+      "cost": 0.0,
+      "retained_value": 0.0,
+      "net_benefit": 0.0,
+      "roi_percentage": 0.0,
+      "customers_targeted": 0
+    },
+    {
+      "budget": 75000.0,
+      "cost": 0.0,
+      "retained_value": 0.0,
+      "net_benefit": 0.0,
+      "roi_percentage": 0.0,
+      "customers_targeted": 0
+    },
+    {
+      "budget": 100000.0,
+      "cost": 0.0,
+      "retained_value": 0.0,
+      "net_benefit": 0.0,
+      "roi_percentage": 0.0,
+      "customers_targeted": 0
+    }
+  ]
+}

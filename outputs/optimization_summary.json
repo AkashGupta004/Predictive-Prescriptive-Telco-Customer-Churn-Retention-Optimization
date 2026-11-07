@@ -1,0 +1,102 @@
+{
+  "primary_strategy": {
+    "strategy": "MILP Optimization",
+    "total_budget": 50000.0,
+    "total_cost": 0.0,
+    "total_retained_value": 0.0,
+    "total_net_benefit": 0.0,
+    "roi_percentage": 0.0,
+    "customers_targeted": 0,
+    "solver_status": "Optimal",
+    "count_Basic": 0,
+    "count_Standard": 0,
+    "count_Premium": 0,
+    "count_None": 7043
+  },
+  "baseline_comparison_table": [
+    {
+      "strategy": "No Campaign",
+      "total_budget": 50000.0,
+      "total_cost": 0.0,
+      "total_retained_value": 0.0,
+      "total_net_benefit": 0.0,
+      "roi_percentage": 0.0,
+      "customers_targeted": 0,
+      "solver_status": "Feasible",
+      "count_Basic": 0,
+      "count_Standard": 0,
+      "count_Premium": 0,
+      "count_None": 7043
+    },
+    {
+      "strategy": "Random Selection",
+      "total_budget": 50000.0,
+      "total_cost": 0.0,
+      "total_retained_value": 0.0,
+      "total_net_benefit": 0.0,
+      "roi_percentage": 0.0,
+      "customers_targeted": 0,
+      "solver_status": "Feasible",
+      "count_Basic": 0,
+      "count_Standard": 0,
+      "count_Premium": 0,
+      "count_None": 7043
+    },
+    {
+      "strategy": "Highest Churn Risk",
+      "total_budget": 50000.0,
+      "total_cost": 0.0,
+      "total_retained_value": 0.0,
+      "total_net_benefit": 0.0,
+      "roi_percentage": 0.0,
+      "customers_targeted": 0,
+      "solver_status": "Feasible",
+      "count_Basic": 0,
+      "count_Standard": 0,
+      "count_Premium": 0,
+      "count_None": 7043
+    },
+    {
+      "strategy": "Highest Customer Value",
+      "total_budget": 50000.0,
+      "total_cost": 0.0,
+      "total_retained_value": 0.0,
+      "total_net_benefit": 0.0,
+      "roi_percentage": 0.0,
+      "customers_targeted": 0,
+      "solver_status": "Feasible",
+      "count_Basic": 0,
+      "count_Standard": 0,
+      "count_Premium": 0,
+      "count_None": 7043
+    },
+    {
+      "strategy": "Greedy Expected Net Benefit",
+      "total_budget": 50000.0,
+      "total_cost": 0.0,
+      "total_retained_value": 0.0,
+      "total_net_benefit": 0.0,
+      "roi_percentage": 0.0,
+      "customers_targeted": 0,
+      "solver_status": "Feasible",
+      "count_Basic": 0,
+      "count_Standard": 0,
+      "count_Premium": 0,
+      "count_None": 7043
+    },
+    {
+      "strategy": "MILP Optimization",
+      "total_budget": 50000.0,
+      "total_cost": 0.0,
+      "total_retained_value": 0.0,
+      "total_net_benefit": 0.0,
+      "roi_percentage": 0.0,
+      "customers_targeted": 0,
+      "solver_status": "Optimal",
+      "count_Basic": 0,
+      "count_Standard": 0,
+      "count_Premium": 0,
+      "count_None": 7043
+    }
+  ]
+}

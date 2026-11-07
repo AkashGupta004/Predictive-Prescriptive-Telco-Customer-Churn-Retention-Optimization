@@ -1,0 +1,31 @@
+strategy,total_budget,total_cost,total_retained_value,total_net_benefit,roi_percentage,customers_targeted,solver_status,count_Basic,count_Standard,count_Premium,count_None,budget_scenario
+No Campaign,10000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,10000.0
+Random Selection,10000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,10000.0
+Highest Churn Risk,10000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,10000.0
+Highest Customer Value,10000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,10000.0
+Greedy Expected Net Benefit,10000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,10000.0
+MILP Optimization,10000.0,0.0,0.0,0.0,0.0,0,Optimal,0,0,0,7043,10000.0
+No Campaign,25000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,25000.0
+Random Selection,25000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,25000.0
+Highest Churn Risk,25000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,25000.0
+Highest Customer Value,25000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,25000.0
+Greedy Expected Net Benefit,25000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,25000.0
+MILP Optimization,25000.0,0.0,0.0,0.0,0.0,0,Optimal,0,0,0,7043,25000.0
+No Campaign,50000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,50000.0
+Random Selection,50000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,50000.0
+Highest Churn Risk,50000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,50000.0
+Highest Customer Value,50000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,50000.0
+Greedy Expected Net Benefit,50000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,50000.0
+MILP Optimization,50000.0,0.0,0.0,0.0,0.0,0,Optimal,0,0,0,7043,50000.0
+No Campaign,75000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,75000.0
+Random Selection,75000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,75000.0
+Highest Churn Risk,75000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,75000.0
+Highest Customer Value,75000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,75000.0
+Greedy Expected Net Benefit,75000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,75000.0
+MILP Optimization,75000.0,0.0,0.0,0.0,0.0,0,Optimal,0,0,0,7043,75000.0
+No Campaign,100000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,100000.0
+Random Selection,100000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,100000.0
+Highest Churn Risk,100000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,100000.0
+Highest Customer Value,100000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,100000.0
+Greedy Expected Net Benefit,100000.0,0.0,0.0,0.0,0.0,0,Feasible,0,0,0,7043,100000.0
+MILP Optimization,100000.0,0.0,0.0,0.0,0.0,0,Optimal,0,0,0,7043,100000.0
