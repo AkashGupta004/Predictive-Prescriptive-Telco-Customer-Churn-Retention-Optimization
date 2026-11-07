@@ -42,4 +42,4 @@ htmlcov/
 *.swo
 
 # Redundant root dataset copy (the canonical dataset is in data/)
-WA_Fn-UseC_-Telco-Customer-Churn.csv
+/WA_Fn-UseC_-Telco-Customer-Churn.csv
